@@ -97,11 +97,11 @@ apn = s:taboption("advanced", Value, "apn", translate("APN"))
 apn.default = ""
 apn.rmempty = true
 apn:value("", translate("Auto Choose"))
-apn:value("cmnet", translate("China Mobile (CN)"))
-apn:value("3gnet", translate("China Unicom (CN)"))
-apn:value("ctnet", translate("China Telecom (CN)"))
-apn:value("cbnet", translate("China Broadcast (CN)"))
-apn:value("5gscuiot", translate("Skytone (CN)"))
+apn:value("v-internet", translate("Viettel"))
+apn:value("m-wap", translate("MOBI"))
+apn:value("m3-world", translate("Vina"))
+apn:value("m9-itel", translate("itel"))
+apn:value("m3-card", translate("wintel"))
 
 -- Switzerland (CH)
 apn:value("gprs.swisscom.ch", translate("Swisscom (CH)"))
