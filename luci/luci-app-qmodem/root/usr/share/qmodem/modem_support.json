@@ -815,6 +815,17 @@
                     "rmnet"
                 ]
             },
+            "em9191": {
+                "manufacturer_id": "1199",
+                "manufacturer": "sierra",
+                "platform": "qualcomm",
+                "data_interface": "usb",
+                "define_connect": "1",
+                "modes": [
+                    "mbim",
+                    "rmnet"
+                ]
+            },            
             "fn990a40": {
                 "manufacturer_id": "1bc7",
                 "manufacturer": "telit",
@@ -1261,6 +1272,16 @@
                     "rmnet"
                 ]
             },
+            "em9191": {
+                "manufacturer": "sierra",
+                "platform": "qualcomm",
+                "data_interface": "pcie",
+                "define_connect": "1",
+                "modes": [
+                    "mbim",
+                    "rmnet"
+                ]
+            },            
             "fn990a40": {
                 "manufacturer": "telit",
                 "platform": "qualcomm",
